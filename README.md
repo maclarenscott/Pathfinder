@@ -13,7 +13,7 @@ The algorithm I designed is simplistic. It tries find a path, not neccessarily t
 - The starting point is defined as _(sx,sy)_
 - The ending point is defined as _(ex,ey)_
 
-## Highly simplified process...
+## Highly algorithm explanation...
 
 1. An array of adjacent neighbors of _(sx,sy)_ is defined as _neighbors_
 2. _neighbors_ is sorted in order of proximity to _(ex,ey)_  
