@@ -1,5 +1,4 @@
 # Pathfinder
-A simple Java/Swing pathfinding simulator
 
 <img width="500" alt="Screen Shot 2022-06-12 at 5 05 59 PM" src="https://user-images.githubusercontent.com/101377119/173254274-e9b13d7c-af40-4fb9-985f-5aac5abfe5f9.png">
 <img width="500" alt="Screen Shot 2022-06-12 at 5 06 16 PM" src="https://user-images.githubusercontent.com/101377119/173254284-ef0904ca-b47d-4e78-ac71-e908ff71c11a.png">
@@ -26,3 +25,9 @@ I decided to take on this project to learn how pathfinding works. I have no back
 
 **Note that these elements are an abstraction and do not actually exist in the code, it is a little more complicated than above but same idea**
 
+# How to run
+
+1. Ensure all files are in same directory
+2. Open linux terminal in directory and type ```javac *.java```
+3. Next type ```java Main```
+4. If that doesn't work oh well
