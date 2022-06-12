@@ -1,6 +1,8 @@
 # Pathfinder
 
-<img width="500" alt="Screen Shot 2022-06-12 at 5 05 59 PM" src="https://user-images.githubusercontent.com/101377119/173254274-e9b13d7c-af40-4fb9-985f-5aac5abfe5f9.png"><img width="500" alt="Screen Shot 2022-06-12 at 5 06 16 PM" src="https://user-images.githubusercontent.com/101377119/173254284-ef0904ca-b47d-4e78-ac71-e908ff71c11a.png">
+<img width="500" alt="Screen Shot 2022-06-12 at 5 50 24 PM" src="https://user-images.githubusercontent.com/101377119/173255120-dddb314d-6d72-46a4-93d5-3bf64ac1bddc.png"><img width="500" alt="Screen Shot 2022-06-12 at 5 50 32 PM" src="https://user-images.githubusercontent.com/101377119/173255126-64aee904-7b1c-44c2-a964-3c0f95cfefe7.png">
+<span>before</span><span>after</span>
+
 
 # This is not a shortest path algorithm
 The algorithm I designed is simplistic. It tries to find a path; not neccessarily the shortest path. Since it only follows one trajectory, it may fail in certain situations when it gets trapped by its own tail.
