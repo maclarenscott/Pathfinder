@@ -29,4 +29,4 @@ I decided to take on this project to learn how pathfinding works. I have no back
 1. Ensure all files are in same directory
 2. Open linux terminal in directory and type ```javac *.java```
 3. Next type ```java Main```
-4. If that doesn't work oh well
+4. If that doesn't work sorry...;(
