@@ -1,7 +1,7 @@
 # Pathfinder
 
 <img width="500" alt="Screen Shot 2022-06-12 at 5 50 24 PM" src="https://user-images.githubusercontent.com/101377119/173255120-dddb314d-6d72-46a4-93d5-3bf64ac1bddc.png"><img width="500" alt="Screen Shot 2022-06-12 at 5 50 32 PM" src="https://user-images.githubusercontent.com/101377119/173255126-64aee904-7b1c-44c2-a964-3c0f95cfefe7.png">
-<span>before</span><span>after</span>
+<span>before</span><span style="margin-left:auto;">after</span>
 
 
 # This is not a shortest path algorithm
