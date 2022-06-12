@@ -7,7 +7,7 @@
 # This is not a shortest path algorithm
 The algorithm I designed is simplistic. It tries to find a path; not neccessarily the shortest path. Since it only follows one trajectory, it may fail in certain situations when it gets trapped by its own tail.
 
-I decided to take on this project to learn how pathfinding works. I have no background in the subject, but rather than study already made algorithms, I designed my own with very little guidance from the internet. 
+I decided to take on this project to learn how pathfinding works. I have no background in the subject, but rather than study already made algorithms, I designed my own with very little guidance from the internet. Everything you see here is original, including the grid.
 
 ## Here is the setup...
 
