@@ -1,6 +1,6 @@
 # Pathfinder
 
-<img width="500" alt="Screen Shot 2022-06-12 at 5 50 24 PM" src="https://user-images.githubusercontent.com/101377119/173255120-dddb314d-6d72-46a4-93d5-3bf64ac1bddc.png"><img width="500" alt="Screen Shot 2022-06-12 at 5 50 32 PM" src="https://user-images.githubusercontent.com/101377119/173255126-64aee904-7b1c-44c2-a964-3c0f95cfefe7.png">
+<img width="450" alt="Screen Shot 2022-06-12 at 5 50 24 PM" src="https://user-images.githubusercontent.com/101377119/173255120-dddb314d-6d72-46a4-93d5-3bf64ac1bddc.png"><img width="450" alt="Screen Shot 2022-06-12 at 5 50 32 PM" src="https://user-images.githubusercontent.com/101377119/173255126-64aee904-7b1c-44c2-a964-3c0f95cfefe7.png">
 
 
 
@@ -34,7 +34,7 @@ I decided to take on this project to learn how pathfinding works. I have no back
 4. If that doesn't work...  ;(
 
 # Some good results are produced...
-<img width="333" alt="Screen Shot 2022-06-12 at 5 57 24 PM" src="https://user-images.githubusercontent.com/101377119/173255458-87ee6899-7d6b-41e6-93c0-ebe533128f90.png"><img width="333" alt="Screen Shot 2022-06-12 at 5 59 37 PM" src="https://user-images.githubusercontent.com/101377119/173255460-48972f50-1c95-4fa4-bfcf-9b91ca95cbca.png"><img width="333" alt="Screen Shot 2022-06-12 at 6 00 41 PM" src="https://user-images.githubusercontent.com/101377119/173255463-a93d883e-31a0-4198-aa1f-249e1f25f23e.png">
+<img width="330" alt="Screen Shot 2022-06-12 at 5 57 24 PM" src="https://user-images.githubusercontent.com/101377119/173255458-87ee6899-7d6b-41e6-93c0-ebe533128f90.png"><img width="330" alt="Screen Shot 2022-06-12 at 5 59 37 PM" src="https://user-images.githubusercontent.com/101377119/173255460-48972f50-1c95-4fa4-bfcf-9b91ca95cbca.png"><img width="330" alt="Screen Shot 2022-06-12 at 6 00 41 PM" src="https://user-images.githubusercontent.com/101377119/173255463-a93d883e-31a0-4198-aa1f-249e1f25f23e.png">
 
 # Others not so much...
-<img width="500" alt="Screen Shot 2022-06-12 at 6 00 25 PM" src="https://user-images.githubusercontent.com/101377119/173255461-561f390f-3cd0-4f88-8786-e9f9d7564618.png"><img width="500" alt="Screen Shot 2022-06-12 at 5 58 48 PM" src="https://user-images.githubusercontent.com/101377119/173255459-7b01addf-de7c-4686-8f30-7f3ac6de308e.png">
+<img width="450" alt="Screen Shot 2022-06-12 at 6 00 25 PM" src="https://user-images.githubusercontent.com/101377119/173255461-561f390f-3cd0-4f88-8786-e9f9d7564618.png"><img width="450" alt="Screen Shot 2022-06-12 at 5 58 48 PM" src="https://user-images.githubusercontent.com/101377119/173255459-7b01addf-de7c-4686-8f30-7f3ac6de308e.png">
