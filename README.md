@@ -38,3 +38,8 @@ I decided to take on this project to learn how pathfinding works. I have no back
 
 # Others not so much...
 <img width="450" alt="Screen Shot 2022-06-12 at 6 00 25 PM" src="https://user-images.githubusercontent.com/101377119/173255461-561f390f-3cd0-4f88-8786-e9f9d7564618.png"><img width="450" alt="Screen Shot 2022-06-12 at 5 58 48 PM" src="https://user-images.githubusercontent.com/101377119/173255459-7b01addf-de7c-4686-8f30-7f3ac6de308e.png">
+
+# improvements
+1. Allow each node to see neighbors of neighboring nodes to anticipate a blockage and set preference to an alternative path
+2. Multiple branches from each step will produce a list of paths, then the shortest one can be chosen
+3.
