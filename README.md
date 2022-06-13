@@ -42,4 +42,4 @@ I decided to take on this project to learn how pathfinding works. I have no back
 # improvements
 1. Allow each node to see neighbors of neighboring nodes to anticipate a blockage and set preference to an alternative path
 2. Multiple branches from each step will produce a list of paths, then the shortest one can be chosen
-3.
+
